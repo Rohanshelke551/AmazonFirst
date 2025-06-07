@@ -1,2 +1,7 @@
 abcd
 print("hello world")
+string
+int
+float
+bool
+complex
